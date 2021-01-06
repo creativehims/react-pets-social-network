@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/react-pets-social-network/static/js/main.98623bb6.chunk.js",
-    "main.js.map": "/react-pets-social-network/static/js/main.98623bb6.chunk.js.map",
-    "runtime-main.js": "/react-pets-social-network/static/js/runtime-main.4cd11c28.js",
-    "runtime-main.js.map": "/react-pets-social-network/static/js/runtime-main.4cd11c28.js.map",
+    "main.css": "/react-pets-social-network/static/css/main.4057a282.chunk.css",
+    "main.js": "/react-pets-social-network/static/js/main.f2aed8f5.chunk.js",
+    "main.js.map": "/react-pets-social-network/static/js/main.f2aed8f5.chunk.js.map",
+    "runtime-main.js": "/react-pets-social-network/static/js/runtime-main.c4e46f12.js",
+    "runtime-main.js.map": "/react-pets-social-network/static/js/runtime-main.c4e46f12.js.map",
     "static/js/2.60c02f95.chunk.js": "/react-pets-social-network/static/js/2.60c02f95.chunk.js",
     "static/js/2.60c02f95.chunk.js.map": "/react-pets-social-network/static/js/2.60c02f95.chunk.js.map",
-    "static/js/3.e10978b7.chunk.js": "/react-pets-social-network/static/js/3.e10978b7.chunk.js",
-    "static/js/3.e10978b7.chunk.js.map": "/react-pets-social-network/static/js/3.e10978b7.chunk.js.map",
+    "static/js/3.2cabe46f.chunk.js": "/react-pets-social-network/static/js/3.2cabe46f.chunk.js",
+    "static/js/3.2cabe46f.chunk.js.map": "/react-pets-social-network/static/js/3.2cabe46f.chunk.js.map",
     "index.html": "/react-pets-social-network/index.html",
+    "static/css/main.4057a282.chunk.css.map": "/react-pets-social-network/static/css/main.4057a282.chunk.css.map",
     "static/js/2.60c02f95.chunk.js.LICENSE.txt": "/react-pets-social-network/static/js/2.60c02f95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cd11c28.js",
+    "static/js/runtime-main.c4e46f12.js",
     "static/js/2.60c02f95.chunk.js",
-    "static/js/main.98623bb6.chunk.js"
+    "static/css/main.4057a282.chunk.css",
+    "static/js/main.f2aed8f5.chunk.js"
   ]
 }
