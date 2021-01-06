@@ -1,6 +1,6 @@
 [build]
-base = "pets-social-media/"
-publish = "pets-social-media/build/"
+base = ""
+publish = "build/"
 command = "npm run build"
 
 [[redirects]]
