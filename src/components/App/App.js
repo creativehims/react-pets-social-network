@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Profile } from '../Profile/Profile';
 import { Directory } from '../Directory/Directory';
+import '../../styles.css';
 
 const App = () => {
   const [currentUsername, setCurrrentUsername] = useState(null);
