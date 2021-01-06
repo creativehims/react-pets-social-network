@@ -3,7 +3,7 @@ base = "pets-social-media/"
 publish = "pets-social-media/build/"
 command = "npm run build"
 
-[redirects]]
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
